@@ -22,6 +22,7 @@ gem "importmap-rails"
 gem "turbo-rails"
 #bootstrap for css
 gem 'bootstrap', '~> 5.1.1'
+gem 'execjs'
 
 # Hotwire's modest JavaScript framework [https://stimulus.hotwired.dev]
 gem "stimulus-rails"
